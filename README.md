@@ -11,7 +11,7 @@ Description: This project is about demonstrating navigation in an application. I
 
 Technologies: Swift, SwiftUI, Xcode
 
-Link: [Kildekode/Demo](link)
+Link: [FormDemo](FormDemo)
 
 Results/learning bulletpoints: 
 - Learned how to implement dynamic navigation using enums.
