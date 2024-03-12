@@ -24,6 +24,7 @@ Results/Learning Bulletpoints:
 Description: This project fetches data from an API in JSON format and builds an app around it, showcasing the use of threads in SwiftUI for asynchronous data fetching.
 
 Technologies: Swift, SwiftUI, Xcode
+
 Link: [GameOfThronesAPI](GameOfThronesAPI)
 
 Results/Learning Bulletpoints: 
@@ -36,6 +37,7 @@ Results/Learning Bulletpoints:
 Description: This project was one of my first projects, demonstrating some of the basic fundamentals in SwiftUI.
 
 Technologies: Swift, SwiftUI, Xcode
+
 Link: [RockPaperScissors](RockPaperScissors)
 
 Results/Learning Bulletpoints: 
