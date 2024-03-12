@@ -44,4 +44,4 @@ Results/Learning Bulletpoints:
 - Explored techniques for designing a simple yet intuitive user interface for the game.
 
 ## Conclusion
-If you have read this far by now, I want to say thank you for taking your time to read about my projects, it is appreciated a lot.
+If you have read this far by now, I want to say thank you for taking your time to read about my projects, it is greatly appreciated.
