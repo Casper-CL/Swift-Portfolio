@@ -5,7 +5,21 @@ Creating this portfolio, I challenged myself to share what I've been working on.
 
 ## Projects
 
-### Project 1: FormDemo
+### Project 1: SuperHeroAPI
+
+Description: This projekt demonstrates both navigation but also retrieving information from an API and converting that into something user-friendly.
+
+Technologies: Swift, SwiftUI, Xcode, JSON
+
+Link: [SuperHeroAPI](SuperHeroAPI)
+
+Results/Learning Bulletpoints: 
+- Succesfully received data from an external API.
+- Learn how to pass and decode JSON in Swift.
+- Implemented user-friendly presentation of retrieved information using SwiftUI.
+- Expanded understanding of asynchronous programming concepts in Swift when fetching data from the API.
+
+### Project 2: FormDemo
 
 Description: This project demonstrates navigation in an application using enums instead of NavigationPath. This allows for dynamic and customizable navigation possibilities.
 
@@ -19,7 +33,7 @@ Results/Learning Bulletpoints:
 - Discovered the flexibility of enums in managing navigation options.
 - By creating this project, I also challenge myself designing UI. Trying to create an application with the same UI-style all the way through. Even though it's simple and not very complex, it represents simple and beautiful style. 
 
-### Project 2: GameOfThronesAPI
+### Project 3: GameOfThronesAPI
 
 Description: This project fetches data from an API in JSON format and builds an app around it, showcasing the use of threads in SwiftUI for asynchronous data fetching.
 
@@ -32,7 +46,7 @@ Results/Learning Bulletpoints:
 - Gained understanding of how to handle asynchronous operations using threads in SwiftUI, ensuring a smooth user experience while data is being fetched in the background.
 - Improved skills in structuring and organizing SwiftUI code to effectively display fetched data in a user-friendly interface.
 
-### Project 3: Rock, Paper, Scissors
+### Project 4: Rock, Paper, Scissors
 
 Description: This project was one of my first projects, demonstrating some of the basic fundamentals in SwiftUI.
 
